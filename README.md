@@ -12,10 +12,12 @@ This dataset was originally taken from the StatLib library which is maintained a
 
 # Results
 
-* **Linear Regression**
+* **Linear Regression:**
+
 Based on the operations performed, Ridge Regression gave the lowest error. Ridge: 183.457
 
-* **Nonlinear Regression**
+* **Nonlinear Regression:**
+
 The model created as a result of GBM Hyperparameter optimization became the model with the lowest RMSE value. GBM: 114
 
 
